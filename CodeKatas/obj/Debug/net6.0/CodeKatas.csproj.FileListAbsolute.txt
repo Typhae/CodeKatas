@@ -1,0 +1,15 @@
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\bin\Debug\net6.0\CodeKatas.exe
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\bin\Debug\net6.0\CodeKatas.deps.json
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\bin\Debug\net6.0\CodeKatas.runtimeconfig.json
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\bin\Debug\net6.0\CodeKatas.dll
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\bin\Debug\net6.0\CodeKatas.pdb
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.csproj.AssemblyReference.cache
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.AssemblyInfoInputs.cache
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.AssemblyInfo.cs
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.csproj.CoreCompileInputs.cache
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.dll
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\obj\Debug\net6.0\refint\CodeKatas.dll
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.pdb
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\obj\Debug\net6.0\CodeKatas.genruntimeconfig.cache
+C:\Users\bradl\Desktop\Projects\CodeKatas\CodeKatas\obj\Debug\net6.0\ref\CodeKatas.dll
